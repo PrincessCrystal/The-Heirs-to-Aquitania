@@ -2825,7 +2825,7 @@
 1496 = {
 	clergymen = {
 		culture = yue
-		religion = confucian
+		religion = orthodox
 		size = 25
 	}
 
@@ -2844,8 +2844,14 @@
 
 	farmers = {
 		culture = yue
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = yue
 		religion = confucian
-		size = 1375
+		size = 375
 	}
 }
 #Waizao (2200000/550000 POPS)
@@ -2946,7 +2952,13 @@
 	farmers = {
 		culture = yue
 		religion = confucian
-		size = 265725
+		size = 140725
+	}
+
+	farmers = {
+		culture = yue
+		religion = orthodox
+		size = 125000
 	}
 }
 #Hainan (3424000/856000 POPS) #asian_minor = li   
